@@ -1,0 +1,26 @@
+[
+  {
+    "monsterName": "Bob",
+    "imgFile": "Bob",
+    "caption": "Bob",
+    "description": "Bob",
+    "price": 1,
+    "scariness": 17.0
+  },
+  {
+    "monsterName": "Dobb",
+    "imgFile": "Bob",
+    "caption": "Bob",
+    "description": "Bob",
+    "price": 1,
+    "scariness": 17.0
+  },
+  {
+    "monsterName": "Shob",
+    "imgFile": "Bob",
+    "caption": "Bob",
+    "description": "Bob",
+    "price": 1,
+    "scariness": 17.0
+  }
+]
