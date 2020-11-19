@@ -18,5 +18,4 @@ class MainActivityFragment : Fragment() {
         return inflater.inflate(R.layout.fragment_main_activity, container, false)
     }
 
-
 }
